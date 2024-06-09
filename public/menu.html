@@ -50,6 +50,7 @@
   </style>
 </head>
 <script>
+  const urlBase = 'https://ecos-rev.vercel.app/api'
   document.addEventListener('DOMContentLoaded', async () => {
     tipo = await tipo()   
     if(tipo != "Admin"){
@@ -72,7 +73,6 @@ async function tipo(){
         })
         return tipo
 }
-
 </script>
 <body class="usuarioBackground">
 
