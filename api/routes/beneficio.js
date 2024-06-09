@@ -28,8 +28,6 @@ const validaBeneficio = [
     .withMessage("O endereço é muito curto. Mínimo de 5")
     .isLength({ max: 500 })
     .withMessage("O endereço é muito longo. Máximo de 500")
-    .matches(/^[a-zA-Z0-9\s\.,#-]+$/)
-    .withMessage("O endereço contém caracteres inválidos")
     .not()
     .matches(/^\s+$/)
     .withMessage("O endereço não pode conter apenas espaços em branco"),
