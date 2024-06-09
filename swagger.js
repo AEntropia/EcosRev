@@ -8,7 +8,7 @@ const doc = {
         title: "Projeto EcosRev 🍀",
         description: "➡️Documentação gerada automaticamente pelo módulo <a href='https://github.com/davibaltar/swagger-autogen' target='_blank'>swagger-autogen</a>."
     },
-    host: '',// LINK DO VERCEL VAI AQUI
+    host: 'https://ecos-rev.vercel.app',// LINK DO VERCEL VAI AQUI
     basePath: "/api",
     schemes: ['http'], //NO VERCEL DARA ERRO, TROCAR POR HTTPS AMEM
     consumes: ['application/json'],
