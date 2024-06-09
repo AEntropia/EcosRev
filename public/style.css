@@ -1,0 +1,245 @@
+
+nav{
+    border-bottom: 1px solid rgba(87, 87, 87, 0.25);
+    padding: 10px;
+    
+}
+h5 {
+    display: flex;
+    flex-direction: row;
+    margin-left: 15%;
+}
+
+
+.texto {
+    margin-top: 110px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    height: 3rem;
+    margin-left: 0;
+    width: 100%;
+    padding-top: 20px;
+    color: white;
+    margin-bottom: 0;
+    background-color: rgba(153, 196, 68, 100%);
+}
+footer div{
+    display: inline-block;
+}
+
+#icons{
+    right: 0;
+    position: fixed;
+    margin-right: 1.5%;
+}
+
+.container-fluid {
+    height: 100px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%; /* Defina a largura desejada */
+    margin: 0 auto; /* Centraliza a tabela na página */
+    padding: 20px; /* Reduz o espaço ao redor das células */
+    margin-top: 10px;
+    margin-bottom: auto;
+
+}
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+th {
+    background-color:rgba(153, 196, 68, 100%);
+}
+
+tbody{
+    background-color: white;
+    
+}
+thead {
+    color: white; /* Cor do texto na thead */
+}
+
+
+#botaoCadastro{
+    margin-left: 0;
+}
+.botao{
+    width: 120px;
+    height: 38px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0;
+    border: none;
+    background-color: rgba(153, 196, 68, 100%);
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0px 10px 10px -5px rgba(198, 196, 196, 0.3);
+}
+
+.imagemPerfil{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+#perfilCard{
+    width: 50%;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 50%;
+}
+#salvarPerfil{
+    margin-left: 0;
+}
+  #profileForm{
+    display: flex;
+    flex-direction: column;
+
+  }
+/*TELA DE LOGIN */
+body {
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+
+.card-header{
+    background-color:  rgba(153, 196, 68, 100%);
+    color: white;
+}
+
+.inicial{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#botaoLogin{
+    background-color: rgba(153, 196, 68, 100%);
+    width: 25%;
+    height: 50%;
+    color: white;   
+    text-align: center;
+};
+
+h4{
+
+    justify-content: center;
+}
+
+td button{
+    width: 30%;
+    height: 30%;
+}
+
+
+#botaoSalvar{
+    background-color: rgba(153, 196, 68, 100%);
+    color: white   ;
+}
+
+.rodape {
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    
+  }
+
+  .card{
+    margin-bottom: 50%;
+  }
+  .cadastroSenha{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+  }
+#ancora{
+    color: black;
+}   
+#ancoraSenhaCod{
+    text-decoration: none;
+    color: white;
+}
+  .conteudo {
+    min-height: calc(100vh - 40px); 
+    padding-bottom: 40px; 
+    overflow: auto; 
+    margin-top: 10px;
+}
+
+.saldo {
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+    margin-left: 70%;
+    margin-top: 10px;
+}
+
+
+.profile-img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+
+  #botaoResgate{
+    margin-left: 0;
+  }
+
+
+  #btnNav{
+    color: white;
+  }
+
+  #cancelar{
+    margin-top: 10px;
+  }
+
+
+
+  .btnExcluir{
+    background-color: red;
+    width: 120px;
+    height: 38px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0;
+    border: none;
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0px 10px 10px -5px rgba(198, 196, 196, 0.3);
+  }
+
+  .btnAtualizar{
+    background-color: green ;
+    width: 120px;
+    height: 38px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0;
+    border: none;
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0px 10px 10px -5px rgba(198, 196, 196, 0.3);
+  }
