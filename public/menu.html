@@ -50,7 +50,8 @@
   </style>
 </head>
 <script>
-  const urlBase = 'https://ecos-rev.vercel.app/api'
+  const urlBase = window.location.href.replace(/\/[^\/]*$/, '') + '/api'
+  const access_token = localStorage.getItem('token') || null
   document.addEventListener('DOMContentLoaded', async () => {
     tipo = await tipo()   
     if(tipo != "Admin"){
