@@ -10,7 +10,7 @@ const doc = {
     },
     host: 'https://ecos-rev.vercel.app',// LINK DO VERCEL VAI AQUI
     basePath: "/api",
-    schemes: ['http'], //NO VERCEL DARA ERRO, TROCAR POR HTTPS AMEM
+    schemes: ['https'], //NO VERCEL DARA ERRO, TROCAR POR HTTPS AMEM
     consumes: ['application/json'],
     produces: ['application/json'],
     securityDefinitions: {
