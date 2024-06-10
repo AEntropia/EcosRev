@@ -1,4 +1,4 @@
-const urlBase = 'https://ecos-rev.vercel.app/api'
+const urlBase = window.location.href.replace(/\/[^\/]*$/, '') + '/api'
 
 document.getElementById('formLogin')
         .addEventListener('submit', function(event){
