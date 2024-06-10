@@ -47,12 +47,33 @@ async function carregaUsuario(){
               <td>${usuario.email}</td>
               <td>${usuario.pontos}</td>
               <td>
+        <button class='btnExcluir' onclick='removeUsuario("${usuario._id}")'>Excluir </button>
         <button class='btnAtualizar' onclick='carregaAtt("${usuario._id}")'>Atualizar </button>
               </td>
             </tr>
             `
         })
     })
+}
+
+async function removeUsuario(id){
+    if(confirm('Deseja realmente excluir este usuario?')){
+        await fetch(`${urlBase}/usuario/${id}`, {
+            method: 'DELETE',
+            headers: {'Content-Type': 'application/json',
+            'access-token' : access_token
+            }
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.deletedCount > 0){carregaUsuario() //atualizamos a UI
+            }
+        })
+        .catch(error => {
+            document.getElementById('mensagem').innerHTML = `Erro ao remover o usuario: ${error.message}`
+            resultadoModal.show() //exibe o modal com o erro
+        })
+    }
 }
 
 async function atualizaUsuario(usuario){

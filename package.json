@@ -5,7 +5,7 @@
   "main": "api/index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "start": "node ./api/index.js",
     "dev": "nodemon api/index.js",
     "doc": "node swagger.js"
@@ -29,8 +29,10 @@
     "swagger-ui-express": "4.3"
   },
   "devDependencies": {
+    "jest": "^29.7.0",
     "nodemo": "^1.0.0",
     "nodemon": "^3.1.0",
+    "supertest": "^7.0.0",
     "swagger-autogen": "^2.23.7"
   }
 }

@@ -7,8 +7,8 @@ Content-Type: application/json
 
 {
     "nome": "Mateus",
-    "email": "mateus@gmail.com",
-    "senha": "Mateus123#",
+    "email": "teste@gmail.com",
+    "senha": "Teste123@",
     "tipo": "Cliente",
     "pontos": 300
 }
@@ -17,7 +17,7 @@ Content-Type: application/json
 // GET - Lista todos os usuários
 GET {{baseURL}}
 Content-Type: application/json
-access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c3VhcmlvIjp7ImlkIjoiNjY1ZTYwZmM5ZmVlNzc4MjIwZGNkZTY0IiwidGlwbyI6IkNsaWVudGUifSwiaWF0IjoxNzE3ODgwNTM5LCJleHAiOjE3MTc5NjY5Mzl9.I08ZprBFw7gRba5YB-T_0C6hqGp8BVmu6_rtXoCUpeg
+access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c3VhcmlvIjp7ImlkIjoiNjY2NzdjZjgwZThjNDFlOTgxZmI2ZWJkIiwidGlwbyI6IkNsaWVudGUifSwiaWF0IjoxNzE4MDYwMzE2LCJleHAiOjE3MTgxNDY3MTZ9.JjilH0-i9kJ-sWG_Bpc5jQ0VDaG-wuCx3K1MMO6zn7I
 
 ###
 // POST - Efetua o login
@@ -26,7 +26,7 @@ Content-Type: application/json
 
 {
     "email": "kyo@gmail.com",
-    "senha": "Kyo123@"
+    "senha": "Kyo123#"
 }
 
 ###
@@ -50,3 +50,9 @@ access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c3VhcmlvIjp7ImlkIjoiNjY1Z
 {
     "pontos": 600
   }
+
+###
+
+DELETE {{baseURL}}/66677d6e0e8c41e981fb6ec4
+Content-Type: application/json
+access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c3VhcmlvIjp7ImlkIjoiNjY2NzdjZjgwZThjNDFlOTgxZmI2ZWJkIiwidGlwbyI6IkNsaWVudGUifSwiaWF0IjoxNzE4MDYwMzE2LCJleHAiOjE3MTgxNDY3MTZ9.JjilH0-i9kJ-sWG_Bpc5jQ0VDaG-wuCx3K1MMO6zn7I

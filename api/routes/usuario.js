@@ -329,4 +329,31 @@ router.put("/pontosPut", auth, validaPontos, async (req, res) => {
     res.status(500).json({ errors: err.message });
   }
 });
+
+router.delete("/:id", auth, async (req, res) => {
+  /*
+            #swagger.tags = ['Usuarios']
+            #swagger.summary = 'DELETE recebendo um usuario pelo ID'
+            #swagger.description = 'Função chamada para executar o DELETE de apenas um usuário pelo seu ID'
+            #swagger.security = [{
+                    "apiKeyAuth": []
+                }]
+        */
+  const result = await db.collection(nomeCollection).deleteOne({
+    _id: { $eq: new ObjectId(req.params.id) },
+  });
+  if (result.deletedCount === 0) {
+    res.status(404).json({
+      errors: [
+        {
+          value: `Não há nenhum usuário com o id ${req.params.id}`,
+          msg: "Erro ao excluir o usuário",
+          param: "/:id",
+        },
+      ],
+    });
+  } else {
+    res.status(200).send(result);
+  }
+});
 export default router;
