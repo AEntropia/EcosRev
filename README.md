@@ -5,9 +5,12 @@
 
 👤Integrantes
 
-- Gabriel Yamaoka Bernardes
-- Mariana Aiko
-- Mateus Ferreira
+| Nome        |  Contato    | 
+| ------------- | ------------- | 
+| Gabriel Yamaoka Bernardes          |  |
+| Mariana Hirata            | 15/05/2024    |  <a href=" <a href="(https://github.com/marianakakimoto)"> Linkedin </a>"> Git Hub </a>| 
+| Mateus Ferreira           | 15/06/2024    | <a href="https://www.linkedin.com/in/mateus-ferreira-rosa-83412a1aa/"> Linkedin </a>|
+
 
 ###
 >> Trabalho desenvolvido com o foco no projeto Ecosrev, visando uma melhora em sua base tanto no front-end quanto no back-end.
@@ -56,8 +59,7 @@ Jira: https://ecosrev.atlassian.net/jira/software/projects/SCRUM/boards/1/backlo
 
 
 ## 🌐Tecnologias Utilizadas
-Figma Typescript HTML CSS React Node Java MongoDB
-Python VS Code Discord GitHub Google Sheets Google Docs
+
 - Frontend: HTML, CSS, JavaScript, React.js
 - Backend: Node.js, Express.js, MongoDB
 - Outras ferramentas e bibliotecas: Bootstrap, JWT para autenticação.
