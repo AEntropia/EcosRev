@@ -31,6 +31,7 @@ O Projeto EcosRev é um website desenvolvido com o propósito de incentivar o de
 ![loginGif](https://github.com/AEntropia/EcosRev/assets/126609101/99f58232-4e4d-44f2-a154-8ea2b1bcb20e)
 > Acesso negado para User Adm: 
 ![adminGif](https://github.com/AEntropia/EcosRev/assets/126609101/731bee2b-4bf9-4627-b4e5-8494adc8b977)
+> Atualização dos Pontos de cada Usuário consumidor:
 ![carregaAtt-atualizaUsuarioGif](https://github.com/AEntropia/EcosRev/assets/126609101/8d9debea-e7dc-4385-b0dc-589c238be8c3)
 ![pontosGif](https://github.com/AEntropia/EcosRev/assets/126609101/fd710a37-2820-4553-9336-8ab03ed6a51e)
 ![resgateGif](https://github.com/AEntropia/EcosRev/assets/126609101/ee70d327-79d0-4e99-8080-65e30ae97073)
