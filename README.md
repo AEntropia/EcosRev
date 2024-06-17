@@ -56,10 +56,10 @@ Jira: https://ecosrev.atlassian.net/jira/software/projects/SCRUM/boards/1/backlo
 
 
 ## 🌐Tecnologias Utilizadas
-
+Figma Typescript HTML CSS React Node Java MongoDB
+Python VS Code Discord GitHub Google Sheets Google Docs
 - Frontend: HTML, CSS, JavaScript, React.js
 - Backend: Node.js, Express.js, MongoDB
-- APIs: Geolocalização (para encontrar locais de descarte próximos), Serviços de Mapas (para visualização dos locais de descarte)
 - Outras ferramentas e bibliotecas: Bootstrap, JWT para autenticação.
 
 ## 📚Documentação Geral
