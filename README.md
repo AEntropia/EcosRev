@@ -5,11 +5,11 @@
 
 👤Integrantes
 
-| Nome        |  Contato    | |
-| ------------- | ------------- | |
-| Gabriel Yamaoka Bernardes          |  |
-| Mariana Hirata            | 15/05/2024    |  <a href=" <a href="(https://github.com/marianakakimoto)"> Linkedin </a>"> Git Hub </a>| 
-| Mateus Ferreira           | 15/06/2024    | <a href="https://www.linkedin.com/in/mateus-ferreira-rosa-83412a1aa/"> Linkedin </a>|
+| Nome        |  
+| ------------- | 
+| Gabriel Yamaoka Bernardes          | 
+| Mariana Hirata            | 
+| Mateus Ferreira           | 
 
 
 ###
