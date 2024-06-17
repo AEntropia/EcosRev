@@ -22,9 +22,9 @@ O Projeto EcosRev é um website desenvolvido com o propósito de incentivar o de
 
 | Sprint        | Previsão      | Status        | Histórico     |
 | ------------- | ------------- | ------------- | ------------- |
-| 01            | 15/04/2024    | Concluído✅     |  <a href="https://github.com/AEntropia/EcosRev/blob/main/sprint-01"> Ver relatório </a> |
-| 02            | 15/05/2024    | Concluído✅     | <a href="https://github.com/AEntropia/EcosRev/blob/main/sprint-02"> Ver relatório </a>  |
-| 03            | 15/06/2024    | Concluído✅     |<a href="https://github.com/AEntropia/EcosRev/blob/main/sprint-03"> Ver relatório </a> |
+| 01            | 15/04/2024    | Concluído✅     | Protótipo|
+| 02            | 15/05/2024    | Concluído✅     | CRUD Básico |
+| 03            | 15/06/2024    | Concluído✅     |Autenticação JWT|
 ## 💡Protótipo 
 
 Acesse o link de visualização interativo do nosso Figma: https://www.figma.com/design/szHO2FNtWtuBxW8hrbRYau/ECOSREV-BD?node-id=0-1&t=OjwOPtuo1edvRLnb-1
