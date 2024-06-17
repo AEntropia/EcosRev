@@ -25,6 +25,16 @@ O Projeto EcosRev é um website desenvolvido com o propósito de incentivar o de
 | 01            | 15/04/2024    | Concluído✅     | Protótipo|
 | 02            | 15/05/2024    | Concluído✅     | CRUD Básico |
 | 03            | 15/06/2024    | Concluído✅     |Autenticação JWT|
+
+## 🎬 Apresentação Final
+Login usuário consumidor:
+![loginGif](https://github.com/AEntropia/EcosRev/assets/126609101/99f58232-4e4d-44f2-a154-8ea2b1bcb20e)
+![adminGif](https://github.com/AEntropia/EcosRev/assets/126609101/731bee2b-4bf9-4627-b4e5-8494adc8b977)
+![carregaAtt-atualizaUsuarioGif](https://github.com/AEntropia/EcosRev/assets/126609101/8d9debea-e7dc-4385-b0dc-589c238be8c3)
+![pontosGif](https://github.com/AEntropia/EcosRev/assets/126609101/fd710a37-2820-4553-9336-8ab03ed6a51e)
+![resgateGif](https://github.com/AEntropia/EcosRev/assets/126609101/ee70d327-79d0-4e99-8080-65e30ae97073)
+![salvaUsuarioGif](https://github.com/AEntropia/EcosRev/assets/126609101/cae66385-f3fa-49a1-be6b-7f84e21cea5d)
+
 ## 💡Protótipo 
 
 Acesse o link de visualização interativo do nosso Figma: https://www.figma.com/design/szHO2FNtWtuBxW8hrbRYau/ECOSREV-BD?node-id=0-1&t=OjwOPtuo1edvRLnb-1
