@@ -22,7 +22,7 @@ O Projeto EcosRev é um website desenvolvido com o propósito de incentivar o de
 
 | Sprint        | Previsão      | Status        | Histórico     |
 | ------------- | ------------- | ------------- | ------------- |
-| 01            | 15/04/2024    | Concluído     |  <a> href="[https://github.com/AEntropia/EcosRev/blob/sprint-01/README.md]"</a> |
+| 01            | 15/04/2024    | Concluído     |  <a href="https://github.com/AEntropia/EcosRev/blob/main/sprint-01"> Ver relatório </a> |
 | 02            | 15/05/2024    | Concluído     | Content Cell  |
 | 03            | 15/06/2024    | Concluído     | Content Cell  |
 ## 💡Protótipo 
