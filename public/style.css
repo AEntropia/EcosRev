@@ -2,7 +2,6 @@
 nav{
     border-bottom: 1px solid rgba(87, 87, 87, 0.25);
     padding: 10px;
-    
 }
 h5 {
     display: flex;
@@ -66,7 +65,18 @@ thead {
     color: white; /* Cor do texto na thead */
 }
 
+#loginBonito{
+    background-color: white;
+}
 
+#bodyLogin{
+    background-image: url("./images/imagem1.jpg");
+    height: 100%; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  position: relative;
+}
 #botaoCadastro{
     margin-left: 0;
 }
@@ -108,7 +118,8 @@ thead {
 /*TELA DE LOGIN */
 body {
     font-family: 'Poppins', sans-serif;
-    
+   
+  
 }
 
 
@@ -243,3 +254,4 @@ td button{
     cursor: pointer;
     box-shadow: 0px 10px 10px -5px rgba(198, 196, 196, 0.3);
   }
+

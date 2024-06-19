@@ -47,8 +47,8 @@ async function carregaUsuario(){
               <td>${usuario.email}</td>
               <td>${usuario.pontos}</td>
               <td>
-        <button class='btnExcluir' onclick='removeUsuario("${usuario._id}")'>Excluir </button>
-        <button class='btnAtualizar' onclick='carregaAtt("${usuario._id}")'>Atualizar </button>
+        <button class='btnExcluir' onclick='removeUsuario("${usuario._id}")'>🗑 Excluir </button>
+        <button class='btnAtualizar' onclick='carregaAtt("${usuario._id}")'>📝 Atualizar </button>
               </td>
             </tr>
             `

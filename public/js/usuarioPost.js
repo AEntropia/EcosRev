@@ -28,6 +28,7 @@ async function salvaUsuario(usuario){
     .then(data => {
         if (data.acknowledged) {
             alert('Usuario incluído com sucesso!')
+            window.location.href="index.html"
             //atualizamos a listagem
         } else if (data.errors){
  const errorMessages = data.errors.map(error => error.msg).join('\n')
