@@ -54,7 +54,7 @@ Jira: https://ecosrev.atlassian.net/jira/software/projects/SCRUM/boards/1/backlo
 
 ## 📊Documentação Swagger
 ![image](https://github.com/AEntropia/EcosRev/assets/126609101/ff67e972-df93-4d5c-aec7-386da38e32a9)
-
+Para acessar o Swagger: /api/doc
 
 ## 💬User Stories
 ![USERSTORY](https://github.com/AEntropia/EcosRev/assets/126609101/75d3a3bb-18cb-4e4a-a2cf-d0f58abab7c3)
