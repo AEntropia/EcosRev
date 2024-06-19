@@ -50,6 +50,8 @@ Acesse o link de visualização interativo do nosso Figma: https://www.figma.com
 ## 🔄Backlogs 
 Confira o nosso backlog no link abaixo. 
 
+Trelllo: https://trello.com/b/4UM3HZPc
+
 Jira: https://ecosrev.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?epics=visible&issueParent=10016&atlOrigin=eyJpIjoiNDdlNzFlNmU3MTY1NGIwODhhMTgwNjIyZDc0MTEzNTAiLCJwIjoiaiJ9
 
 ## 📊Documentação Swagger
