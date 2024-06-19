@@ -53,7 +53,8 @@ Confira o nosso backlog no link abaixo.
 Jira: https://ecosrev.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?epics=visible&issueParent=10016&atlOrigin=eyJpIjoiNDdlNzFlNmU3MTY1NGIwODhhMTgwNjIyZDc0MTEzNTAiLCJwIjoiaiJ9
 
 ## 📊Documentação Swagger
-![image](https://github.com/AEntropia/EcosRev/assets/126609101/ff67e972-df93-4d5c-aec7-386da38e32a9)
+![imagem](https://github.com/AEntropia/EcosRev/assets/126609101/d1b675f1-48a2-40b4-a38a-f2119f6bd95a)
+
 Para acessar o Swagger: /api/doc
 
 ## 💬User Stories
