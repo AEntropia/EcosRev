@@ -73,6 +73,8 @@ const validaUsuario = [
     .default("Cliente")
     .isIn(["Admin", "Cliente"])
     .withMessage("O tipo deve ser Admin ou Cliente"),
+  check("pontos")
+    .default(0),
 ];
 
 const validaPontos = [
