@@ -14,7 +14,7 @@
     "mongodb",
     "nodejs"
   ],
-  "author": "Ricardo Leme",
+  "author": "EcosRev Team",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
